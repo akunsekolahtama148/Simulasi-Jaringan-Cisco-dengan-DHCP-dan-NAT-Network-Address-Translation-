@@ -1,5 +1,4 @@
-# Simulasi Jaringan Cisco dengan DHCP dan NAT
-# 🌐 Cisco Network Simulation: DHCP & NAT
+# 🌐 Simulasi Jaringan Cisco: DHCP & NAT
 
 **Simulasi Jaringan Cisco Menggunakan DHCP dan NAT dengan Cisco Packet Tracer**
 
